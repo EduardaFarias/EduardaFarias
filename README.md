@@ -1,6 +1,4 @@
 
-<img src="https://user-images.githubusercontent.com/97049617/195964175-60bb039a-15ce-4d69-9c73-1b18b628087b.gif" width="100%" height="300px"/>
-
 <h3 align="center">
 Hi guys, I'm Eduarda Farias :blush:
 </h3>
