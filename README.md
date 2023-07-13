@@ -1,7 +1,7 @@
 <h3 align="center">
   Hi guys, I'm Eduarda Farias :blush:
 </h3>
-  I'm 19 years old, and I'm student of Computer Science at Federal University of Campina Grande in Brazil.
+  I'm 20 years old, and I'm student of Computer Science at Federal University of Campina Grande in Brazil.
   I'm see in programming the power to change the world, bring new experiences.
   I'm a true curious and enthusiastic for everthing i do, I'm seeking to improve more and more my skills and be able to share them.
   I'm interested and I've been studying areas of hacking, pentesting, systems security, cybersecurity and web development.
