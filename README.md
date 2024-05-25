@@ -1,7 +1,7 @@
 <h3 align="center">
   Hi guys, I'm Eduarda Farias :blush:
 </h3>
-  I'm 20 years old, and I'm student of Computer Science at Federal University of Campina Grande in Brazil.
+  I'm 21 years old, and I'm student of Computer Science at Federal University of Campina Grande in Brazil.
   I'm see in programming the power to change the world, bring new experiences.
   I'm a true curious and enthusiastic for everthing i do, I'm seeking to improve more and more my skills and be able to share them.
   I'm interested and I've been studying areas of hacking, pentesting, systems security, cybersecurity and web development.
@@ -13,6 +13,8 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="SpringBoot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">   
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg">
   </div>
